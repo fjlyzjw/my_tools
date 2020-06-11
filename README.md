@@ -2,8 +2,8 @@
 Several commandline tools implemented by myself for data preprocessing.
 
 Including:
-1. [Chinese tokenization based on jieba lib](#Chinese tokenization)
-2. [Data splitation](#Data split)
+![Chinese tokenization based on jieba lib](#Chinese tokenization)
+![Data splitation](#Data split)
 
 # Usage
 ## Chinese tokenization
